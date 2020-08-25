@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:br="http://www.w3.org/1999/html">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <title>Idade</title>
@@ -8,8 +8,10 @@
 <form method="get" action="02idade.php">
     Nome: <input type="text" name="nome"><br>
     Ano de nascimento: <input type="number" name="ano"><br>
-    Sexo :  <input type="radio" name="sexo" id="masc" value="masculino"> Masculino
-            <input type="radio" name="sexo" id="fem" value="feminino"> Feminino <br>
+    Sexo :  <input type="radio" name="sexo" id="masc" value="masculino">
+            <label for="masc">Masculino</label>
+            <input type="radio" name="sexo" id="fem" value="feminino">
+            <label for="fem">Feminino</label><br>
     <input type="submit" value="Enviar">
 </form>
 
