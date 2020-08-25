@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <?php
-        $txt = $_GET["t"];
+        $txt = isset($_GET["t"])? $_GET["t"] : "Texto padrão gerado automaticamente.";
         $tam = $_GET["tam"];
         $cor = $_GET["cor"];
     ?>
