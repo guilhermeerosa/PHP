@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e1f34e0-e902-4794-90e8-004bda0868c6" name="Default Changelist" comment="My commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gY8EhMKHejllAKrzvHvLnIGrwW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\PHP\aula_6" />
+      <recent name="D:\xampp\htdocs\PHP\aula_7" />
+      <recent name="D:\xampp\htdocs\PHP\Aula 7" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1f34e0-e902-4794-90e8-004bda0868c6" name="Default Changelist" comment="" />
+      <created>1598280056254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598280056254</updated>
+      <workItem from="1598280057474" duration="3101000" />
+      <workItem from="1598368233345" duration="3686000" />
+      <workItem from="1598372255168" duration="512000" />
+      <workItem from="1598372794201" duration="1670000" />
+    </task>
+    <task id="LOCAL-00001" summary="My commit">
+      <created>1598375202359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598375202359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="344" key="#Notifications" timestamp="1598372362978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1598372362978" />
+    <state x="929" y="529" width="589" height="204" key="Github.ShareDialog" timestamp="1598372299489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="929" y="529" width="589" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598372299489" />
+    <state x="828" y="225" width="632" height="590" key="Github.UntrackedFilesDialog" timestamp="1598372330906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="225" width="632" height="590" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598372330906" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1598375378274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598375378274" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1598369712731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598369712731" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1598372433513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598372433513" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598375429036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598375429036" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598375368192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598375368192" />
+    <state x="714" y="350" width="672" height="678" key="search.everywhere.popup" timestamp="1598369765460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="350" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598369765460" />
+    <state x="825" y="204" key="svn.repositoryBrowser" timestamp="1598371434255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="204" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1598371434255" />
+  </component>
+</project>

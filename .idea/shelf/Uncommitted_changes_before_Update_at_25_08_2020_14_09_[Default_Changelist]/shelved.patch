@@ -1,0 +1,12 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\"# PHPa\" \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 8d31d8efe2db1667348bfcb41087b74781cbe500)
++++ README.md	(date 1598375368205)
+@@ -1,1 +1,1 @@
+-"# PHPa" 
++
